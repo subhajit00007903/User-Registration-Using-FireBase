@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">database_firebase</string>
+    <string name="login">Log in</string>
+    <string name="btnl">Submit</string>
+    <string name="email">Enter Email</string>
+    <string name="pass">Enter Password</string>
+
+
+
+    <string name="reg">Register</string>
+    <string name="regemail">Enter Email</string>
+    <string name="regpass">Enter Password</string>
+    <string name="regbtn">Register Click</string>
+
+
+    <string name="loginnow">Log in Now</string>
+    <string name="Registernow">Register Now</string>
+</resources>
